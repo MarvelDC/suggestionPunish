@@ -1,0 +1,13 @@
+name: suggestion-punish
+version: 1.0-SNAPSHOT
+main: me.marveldc.projects.suggestionPunish.Main
+author: MarvelDC
+description: Suggestion for Skycade - punish
+
+commands:
+  punish:
+    description: Opens example punish GUI
+    aliases: ["pu"]
+  senddupe:
+    description: Sends example dupe ip message in player's chat
+    aliases: ["sd"]
