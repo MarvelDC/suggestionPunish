@@ -1,3 +1,3 @@
 # suggestionPunish
-Suggestion for Skycade
+Suggestion
 Example project as suggestion for Java learning.
